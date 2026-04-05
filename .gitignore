@@ -1,0 +1,27 @@
+# Maven
+target/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build tools (local Maven install)
+apache-maven-*/
+
+# Temp files
+*.log
+body.json
+pdf_output.txt
+test_results.txt
